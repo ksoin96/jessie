@@ -1,4 +1,15 @@
+@font-face {
+    font-family: 'Dibatik';
+    src: url('https://yourusername.github.io/repositoryname/fonts/Dibatik-p7LOR.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
 body {
+    font-family: 'Dibatik', sans-serif;
     background: linear-gradient(to bottom, #87CEEB, #FFFFFF);
     margin: 0;
     height: 100vh;
