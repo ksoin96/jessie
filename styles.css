@@ -3,4 +3,14 @@ body {
     margin: 0;
     height: 100vh;
 }
+.instagram-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.instagram-icon img {
+    width: 40px;
+    height: 40px;
+}
 
