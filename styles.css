@@ -4,8 +4,17 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Davinca';
+    src: url('https://ksoin96.github.io/jessie/fonts/Davinca-AR4nA.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 
 h1 {
+    font-family: 'Dibatik', sans-serif;
     font-size: 3em;  /* Adjust this value to increase or decrease the font size */
     color: #FFFFFF; 
     transition: color 0.3s ease;
@@ -15,6 +24,20 @@ h1:hover,
 h1:active {
     color: #FF7F7F;  /* Changes the text color to red on hover and click */
 }
+
+h2 {
+    font-family: 'Davinca', sans-serif;
+    font-size: 2em;  /* Adjust this value to increase or decrease the font size */
+    color: #FFFFFF;
+    transition: color 0.3s ease;
+}
+
+
+h2:hover,
+h2:active {
+    color: #FF7F7F;  /* Changes the text color to red on hover and click */
+}
+
 
 body {
     font-family: 'Dibatik', sans-serif;
