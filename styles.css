@@ -7,7 +7,7 @@
 
 h1 {
     font-size: 3em;  /* Adjust this value to increase or decrease the font size */
-    color: #FFFFFF; 
+    color: #FF7F7F; 
     transition: color 0.3s ease;
 }
 
