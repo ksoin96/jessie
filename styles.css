@@ -5,7 +5,10 @@
     font-style: normal;
 }
 
-
+h1 {
+    font-size: 3em;  /* Adjust this value to increase or decrease the font size */
+    color: #FFFFFF; 
+}
 
 
 body {
