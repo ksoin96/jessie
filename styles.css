@@ -30,6 +30,7 @@ h2 {
     font-size: 2em;  /* Adjust this value to increase or decrease the font size */
     color: #FFFFFF;
     transition: color 0.3s ease;
+    margin-left: 2em;
 }
 
 
